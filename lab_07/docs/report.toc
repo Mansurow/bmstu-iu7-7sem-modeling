@@ -1,0 +1,4 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\numberline {1}Условие лабораторной}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Теоретическая часть}{4}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Практическая часть}{6}{chapter.3}%
